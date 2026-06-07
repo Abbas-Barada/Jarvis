@@ -55,7 +55,7 @@ command.setStyleSheet("font-size: 14px;")
 
 log = QTextEdit()
 log.append("Jarvis started")
-log.append("Model: Gemma 3 4B")
+log.append("Model: Qwen 2.5 3B Instruct")
 log.append("Press F8 to talk")
 log.setReadOnly(True)
 
