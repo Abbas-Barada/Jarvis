@@ -1,0 +1,7 @@
+CURRENT_FOLDER = None
+
+LAST_FILE = None
+
+LAST_LIST = []
+
+FOLDER_HISTORY = []

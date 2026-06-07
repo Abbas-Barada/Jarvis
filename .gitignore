@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Build output
+build/
+dist/
+
+# Audio
+*.wav
+
+# Models
+models/whisper/models/
+models/piper/piper/espeak-ng-data/voices/*.onnx
+
+# VSCode
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
