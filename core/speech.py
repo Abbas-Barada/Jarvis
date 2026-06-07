@@ -11,7 +11,7 @@ from playsound3 import playsound
 from config import *
 
 def record_audio():
-    print("\nRecording... Press f12 again to stop.")
+    print("\nRecording... Press F8 again to stop.")
 
     recording = []
 
@@ -27,7 +27,7 @@ def record_audio():
         data, _ = stream.read(1024)
         recording.append(data)
 
-        if keyboard.is_pressed("f12"):
+        if keyboard.is_pressed("F8"):
             time.sleep(0.3)
             break
 
