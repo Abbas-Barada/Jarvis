@@ -13,6 +13,10 @@ An offline AI voice assistant built in Python.
 - Local AI model integration
 - GUI interface
 
+## Screenshots
+
+
+
 ## Project Structure
 
 ```text
